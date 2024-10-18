@@ -1,2 +1,5 @@
 # gravsim
-A python-powered gravity simulator, capable of simulating and rendering solar systems.
+## A python-powered gravity simulator, capable of simulating and rendering solar systems.
+Dependencies:
+- MatPlotLib
+- Numpy
